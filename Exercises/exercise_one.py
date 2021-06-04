@@ -34,3 +34,4 @@ string_variable = "This is a string"
 boolean_variable = True  # False
 integer_variable = 500
 float_variable = 50.0
+
